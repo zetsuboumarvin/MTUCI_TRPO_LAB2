@@ -53,3 +53,8 @@ spec:
   selector:
     app: lab2-app
 ```
+### Скриншоты
+![](https://github.com/zetsuboumarvin/MTUCI_TRPO_LAB2/blob/master/lab_resources/lab2-3.3.png)
+![](https://github.com/zetsuboumarvin/MTUCI_TRPO_LAB2/blob/master/lab_resources/lab2-3.3.1.png)
+![](https://github.com/zetsuboumarvin/MTUCI_TRPO_LAB2/blob/master/lab_resources/lab2-3.3.2.png)
+![](https://github.com/zetsuboumarvin/MTUCI_TRPO_LAB2/blob/master/lab_resources/lab2-3.3.3.png)
